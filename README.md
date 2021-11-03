@@ -15,7 +15,6 @@ This tool allows for short and simple code and validation with little effort.
 Extensibility to be applied to any language model in any problem setting by inheriting from the base class.
 
 
-
 ## Install
 
 ```bash
@@ -44,6 +43,11 @@ output = attacker.attack_by_text(texts,target_ids)
 
 More realistic use cases are stored in [examples](https://github.com/SecHack365-Fans/prompt2slip/tree/main/examples).
 
+## What It Dose
+
+"prompt2slip" provides the function to search for prompts which cause appearance of any specific word against a pre trained natural language generation model. Furthermore, with user customization, it can be applied to a wide range of tasks, including classification tasks.If you want to generate a hostile sample for a classification model, you can simply override the method to compute the adversarial loss function to generate a natural adversarial text.
+
+The unique feature of this library is that it can generate test cases for verifying the danger of a pre-trained natural language model with a few lines of code.
 
 ## References
 
