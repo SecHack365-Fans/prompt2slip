@@ -49,6 +49,10 @@ More realistic use cases are stored in [examples](https://github.com/SecHack365-
 
 - [Gradient-based Adversarial Attacks against Text Transformers ( Chuan Guo et al. ) ](https://arxiv.org/abs/2104.13733)
 
+## More About This Project
+
+- [promp2slip | Devpost](https://devpost.com/software/promp2slip)
+
 ## License
 
 [MIT License](https://github.com/SecHack365-Fans/prompt2slip/blob/main/LICENSE)
