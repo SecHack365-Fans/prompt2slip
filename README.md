@@ -5,6 +5,7 @@
 
 
 [![pytest](https://github.com/SecHack365-Fans/prompt2slip_proto/actions/workflows/pytest.yml/badge.svg)](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/pytest.yml)
+[![release](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/release.yml)
 [![PyPI version](https://badge.fury.io/py/prompt2slip.svg)](https://badge.fury.io/py/prompt2slip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SecHack365-Fans/prompt2slip/blob/main/LICENSE)
 
