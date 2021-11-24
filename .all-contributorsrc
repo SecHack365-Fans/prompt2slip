@@ -6,7 +6,7 @@
   "commit": false,
   "contributors": [
     {
-     "login": "akiFQC",
+      "login": "akiFQC",
       "name": "Aki Fukuchi",
       "avatar_url": "https://avatars.githubusercontent.com/u/32811500?v=4",
       "profile": "https://github.com/akiFQC",
@@ -42,6 +42,21 @@
         "example",
         "ideas",
         "question",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "Uno-Takashi",
+      "name": "Uno-Takashi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32987034?v=4",
+      "profile": "https://github.com/Uno-Takashi",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "platform",
         "review",
         "test"
       ]
