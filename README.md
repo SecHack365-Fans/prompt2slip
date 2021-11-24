@@ -1,7 +1,4 @@
 # prompt2slip
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 ![prompt2slip Logo](https://user-images.githubusercontent.com/32987034/140047469-32909981-eec5-4cfd-87ab-76010305b67f.png)
@@ -10,7 +7,9 @@
 [![pytest](https://github.com/SecHack365-Fans/prompt2slip_proto/actions/workflows/pytest.yml/badge.svg)](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/pytest.yml)
 [![release](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/SecHack365-Fans/prompt2slip/actions/workflows/release.yml)
 [![PyPI version](https://badge.fury.io/py/prompt2slip.svg)](https://badge.fury.io/py/prompt2slip)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SecHack365-Fans/prompt2slip/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg)](#contributors)
 
 This library is testing the ethics of language models by using natural adversarial texts.
 
@@ -84,7 +83,7 @@ poetry run pytest --cov .
 ```
 
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -104,5 +103,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
