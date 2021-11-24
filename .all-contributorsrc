@@ -31,7 +31,7 @@
         "doc",
         "test",
         "video"
-      ],
+      ]
     },
     {
       "login": "kajyuuen",
@@ -44,8 +44,9 @@
         "question",
         "review",
         "test"
-      ],
-    },
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "prompt2slip",
   "projectOwner": "SecHack365-Fans",
