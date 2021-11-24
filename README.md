@@ -1,6 +1,6 @@
 # prompt2slip
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -94,6 +94,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/akiFQC"><img src="https://avatars.githubusercontent.com/u/32811500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aki Fukuchi</b></sub></a><br /><a href="https://github.com/SecHack365-Fans/prompt2slip/commits?author=akiFQC" title="Code">💻</a> <a href="https://github.com/SecHack365-Fans/prompt2slip/issues?q=author%3AakiFQC" title="Bug reports">🐛</a> <a href="#content-akiFQC" title="Content">🖋</a> <a href="#example-akiFQC" title="Examples">💡</a> <a href="#video-akiFQC" title="Videos">📹</a> <a href="https://github.com/SecHack365-Fans/prompt2slip/pulls?q=is%3Apr+reviewed-by%3AakiFQC" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-akiFQC" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="http://task4233.dev"><img src="https://avatars.githubusercontent.com/u/29667656?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Takashi MIMA</b></sub></a><br /><a href="https://github.com/SecHack365-Fans/prompt2slip/issues?q=author%3Atask4233" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
