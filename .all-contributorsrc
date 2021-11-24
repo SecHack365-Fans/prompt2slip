@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kajyuuen",
+      "name": "Koga Kobayashi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15792784?v=4",
+      "profile": "https://www.kajyuuen.com/about",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "prompt2slip",
+  "projectOwner": "SecHack365-Fans",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
