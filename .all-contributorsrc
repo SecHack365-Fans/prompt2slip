@@ -6,7 +6,7 @@
   "commit": false,
   "contributors": [
     {
-      "login": "akiFQC",
+     "login": "akiFQC",
       "name": "Aki Fukuchi",
       "avatar_url": "https://avatars.githubusercontent.com/u/32811500?v=4",
       "profile": "https://github.com/akiFQC",
@@ -31,9 +31,21 @@
         "doc",
         "test",
         "video"
-      ]
-    }
-  ],
+      ],
+    },
+    {
+      "login": "kajyuuen",
+      "name": "Koga Kobayashi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15792784?v=4",
+      "profile": "https://www.kajyuuen.com/about",
+      "contributions": [
+        "example",
+        "ideas",
+        "question",
+        "review",
+        "test"
+      ],
+    },
   "contributorsPerLine": 7,
   "projectName": "prompt2slip",
   "projectOwner": "SecHack365-Fans",
