@@ -31,17 +31,18 @@ The simplest sample looks like this.
 
 
 ```python
-import prompt2slip
-from transformers import GPT2Tokenizer, GPT2Model
+from prompt2slip import CLMAttacker
+import torch
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
-model = GPT2Model.from_pretrained('gpt2')
+model = GPT2LMHeadModel.from_pretrained('gpt2')
 
 base_text = ["This project respects pytorch developers."]
-target_word = ["keras"]
+target_words = ["keras"]
 
-target_ids  = torch.Tensor(tokenizer.convert_tokens_to_ids(target_words))
-attaker = CLMAttacker(model,tokenizer)
-output = attacker.attack_by_text(texts,target_ids)
+target_ids = torch.Tensor(tokenizer.convert_tokens_to_ids(target_words)).long()
+attacker = CLMAttacker(model, tokenizer)
+output = attacker.attack_by_text(base_text, target_ids)
 ```
 
 More realistic use cases are stored in [examples](https://github.com/SecHack365-Fans/prompt2slip/tree/main/examples).
